@@ -9,6 +9,7 @@ mvnw.cmd
 .mvn/
 order-service/mysql/
 inventory-service/mysql/
+api-gateway/volume-data/
 
 
 ### STS ###
